@@ -29,11 +29,11 @@ function About() {
             🎓 Education & Training
           </h2>
           <ul className="text-sm md:text-md list-disc list-inside mb-4 text-justify">
-            <li>Diploma in IT at JSPM Pune</li>
-            <li>B.Tech in AI&DS at AISSMS IOIT Pune</li>
+            <li>Diploma in Computer Engineering at AISSMS Poly Pune</li>
+            <li>B.Tech in AI & DS at AISSMS IOIT Pune</li>
             <li>Certified in Web Development & Database Management</li>
             <li>Exploring AI, Full Stack Development, and Cloud</li>
-            <li>Internship in i2i Speciallist Technologies, Pune, Maharashtra 
+            <li>Internship at India Tech Soft Technologies, Pune, Maharashtra 
                 (Jun 2022 - Aug 2023) 
                 Domain: Web Developer </li>
           </ul>
@@ -52,7 +52,7 @@ function About() {
           </ul>
 
           {/* Achievements */}
-          <h2 className="text-md md:text-xl font-semibold text-green-600 mb-2">
+         {/* <h2 className="text-md md:text-xl font-semibold text-green-600 mb-2">
             🏆 Achievements & Awards
           </h2>
           <ul className="text-sm md:text-md mb-4 text-justify">
@@ -63,7 +63,7 @@ function About() {
                 "Gas Leakage Detection and Auto Regulator Off System"
               </span>.
             </li>
-          </ul>
+          </ul>*/}
 
           {/* Mission */}
           <h2 className="text-md md:text-xl font-semibold text-green-600 mb-2">

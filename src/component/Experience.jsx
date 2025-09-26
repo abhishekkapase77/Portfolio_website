@@ -11,7 +11,7 @@ function Experience() {
     {
       id: 1,
       type: "Internship",
-      company: "i2i Specialist Technologies, Pune, Maharashtra",
+      company: "India Tech Soft, Pune, Maharashtra",
       duration: "Jun 2022 - Aug 2023",
       domain: "Web Developer",
       logo: webDev,
@@ -34,9 +34,9 @@ function Experience() {
     {
       id: 1,
       title: "Diploma Final Year Project",
-      description: "Gas leakage detection and alerting system. Automated regulator off system using Arduino.",
+      description: "Youtube Comment Analysis.",
       logo: project1,
-      tech: "Arduino, Sensors"
+      tech: "Natural Language Processing"
     },
     {
       id: 2,
